@@ -5,7 +5,7 @@
  *   File: LabTask2.java
  */
 
-package lab;
+package lab.lab1;
 
 // Task 2 - Create a program in Java to declare, initialize and use local variables of all the primitive data types in Java.
 

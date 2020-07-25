@@ -5,7 +5,7 @@
  *   File: LabTask1.java
  */
 
-package lab;
+package lab.lab1;
 
 // Task 1 - Create a "Hello, World!" program in Java.
 
