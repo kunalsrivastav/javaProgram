@@ -14,12 +14,12 @@ public class LabTask2 {
         // Laptop
         var numberOfTypeCPort = (byte) 2;
         var numberOfUnitsSold = (short) 20000;
-        var numberOfUnitsManufactured = (int) 75000;
-        var modelnumber = (long) 1523495670;
-        var priceOfLaptop = (float) 99_999.00f;
-        var screenSizeInCM = (double) 33.782;
-        var seriesOfLaptop = (char) 'X';
-        var canRunHighEndSoftwares = (boolean) true;
+        var numberOfUnitsManufactured = 75000;
+        var modelnumber = 1523495670L;
+        var priceOfLaptop = 99_999.00f;
+        var screenSizeInCM = 33.782D;
+        var seriesOfLaptop = 'X';
+        var canRunHighEndSoftwares = true;
         System.out.println("numberOfTypeCPort : " + numberOfTypeCPort);
         System.out.println("numberOfUnitsSold : " + numberOfUnitsSold);
         System.out.println("numberOfUnitsManufactured : " + numberOfUnitsManufactured);
